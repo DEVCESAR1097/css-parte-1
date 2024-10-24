@@ -1,0 +1,19 @@
+h1{
+    color: #335522;
+    background: #987211;
+}
+
+p{
+    color: #004488;
+}
+#botao-1{
+    color: #004488;
+    background: #999999;
+    border-color: #ff0000
+}
+
+#botao-2{
+    color: #ff0000;
+    background: #004488;
+    border-color: #55ff55;
+}

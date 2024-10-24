@@ -1,0 +1,20 @@
+
+#titulo{
+    color: black;
+    background: gray;
+}
+
+#paragrafo{
+    color: blue;
+}
+
+#botao{
+    background: aqua;
+    border-color: blue;
+}
+
+#outro-botao{
+    color: black;
+    background: red;
+    border-color: blue;
+}
